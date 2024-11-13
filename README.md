@@ -1,4 +1,4 @@
-# fic11_starter_pos
+# flutter_kedai_starter
 
 A new Flutter project.
 
